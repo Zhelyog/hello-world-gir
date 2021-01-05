@@ -1,2 +1,2 @@
-# hello-world-gir
+# hello-world-git
 Git tutorial 
